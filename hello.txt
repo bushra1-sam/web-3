@@ -2,3 +2,4 @@
 "second commit"
 "commit 3"
 "new commit"
+"third commit"
